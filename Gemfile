@@ -49,5 +49,5 @@ gem 'pry-rails'
 gem 'compass-rails','~> 2.0'
 gem 'sprockets'
 gem 'kaminari'
-
+gem 'devise'
 
